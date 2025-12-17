@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Yamil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**sh1gehara/sh1gehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏴‍☠️ Junior SysAdmin focused on Cybersecurity
+Focused on **Network Hardening**, **Infrastructure as Code (IaC)**, and **Secure Architectures**. I bridge the gap between physical security protocols and digital defense.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Cybersecurity & OS**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+**Cloud & DevOps (IaC)**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Networking & Backend**
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+### ♟️ Professional Background
+
+* **System Administration:** Experience deploying secure architectures (Bastion Hosts, VPNs, Firewalls) and automating tasks with Bash/Ansible.
+* **Physical Security & Incident Response:**
+    * Former background in facility security (Concierge).
+    * **Key Duties:** Surveillance system monitoring & L1 incident resolution.
+
+* **Languages:** English & Spanish (Native).
+
+---
+
+### 📊 Network Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sh1gehara&show_icons=true&theme=graywhite&hide_border=true" alt="Yamil's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1gehara&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+[![](https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamil-motta-paredes)
