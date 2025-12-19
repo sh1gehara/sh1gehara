@@ -1,11 +1,11 @@
 # Hi, I'm Yamil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 🏴‍☠️ Junior SysAdmin focused on Cybersecurity
-Focused on **Network Hardening**, **Infrastructure as Code (IaC)**, and **Secure Architectures**. I bridge the gap between physical security protocols and digital defense.
+### Junior SysAdmin focused on Cybersecurity
+Focused on **Network Hardening**, **Infrastructure as Code (IaC)**, and **Secure Architectures**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 **Cybersecurity & OS**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
@@ -17,7 +17,7 @@ Focused on **Network Hardening**, **Infrastructure as Code (IaC)**, and **Secure
 
 ---
 
-### ♟️ Professional Background
+### Background
 
 * **System Administration:** Experience deploying secure architectures (Bastion Hosts, VPNs, Firewalls) and automating tasks with Bash/Ansible.
 * **Physical Security & Incident Response:**
@@ -28,11 +28,9 @@ Focused on **Network Hardening**, **Infrastructure as Code (IaC)**, and **Secure
 
 ---
 
-### 📊 Network Stats
+### Network Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sh1gehara&show_icons=true&theme=graywhite&hide_border=true" alt="Yamil's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1gehara&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs" />
 </p>
 
----
-[![](https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamil-motta-paredes)
