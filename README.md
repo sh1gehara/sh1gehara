@@ -20,9 +20,6 @@ Focused on **Network Hardening**, **Infrastructure as Code (IaC)**, and **Secure
 ### Background
 
 * **System Administration:** Experience deploying secure architectures (Bastion Hosts, VPNs, Firewalls) and automating tasks with Bash/Ansible.
-* **Physical Security & Incident Response:**
-    * Former background in facility security (Concierge).
-    * **Key Duties:** Surveillance system monitoring & L1 incident resolution.
 
 * **Languages:** English & Spanish (Native).
 
